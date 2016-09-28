@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "662121811303",
+    "firebase_url": "https://mbazaar-31d7d.firebaseio.com",
+    "project_id": "mbazaar-31d7d",
+    "storage_bucket": "mbazaar-31d7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662121811303:android:ee4ad386d76726df",
+        "android_client_info": {
+          "package_name": "com.karman.mbazaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662121811303-4sdthlqkeua9lk0k1leikpcttlaa3ent.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0yfQW4MHGbs4ojISB4kAqIqDSXCHtVX0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

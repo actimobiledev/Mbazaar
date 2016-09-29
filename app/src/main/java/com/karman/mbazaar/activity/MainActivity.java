@@ -270,7 +270,6 @@ public class MainActivity extends AppCompatActivity implements BaseSliderView.On
                 )
                 .withSavedInstance (savedInstanceState)
                 .build ();
-
         result.getActionBarDrawerToggle ().setDrawerIndicatorEnabled (true);
     }
 
